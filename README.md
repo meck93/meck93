@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-I'm Moritz and I work as a software engineer @ [Zühlke](https://github.com/Zuehlke).
+I'm Moritz and I work as a senior software engineer @ [Quatico](https://github.com/quatico-solutions).
 
 I'm passionate about the web and software engineering. 
 
